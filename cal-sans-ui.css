@@ -1,0 +1,16 @@
+/* coss ui fonts for Bubble (bubble-ui-libraries coss-ui component library).
+   Sources: github.com/cosscom/coss packages/ui/src/fonts, served via jsDelivr. */
+@font-face {
+  font-family: "Cal Sans UI";
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/cosscom/coss@main/packages/ui/src/fonts/CalSansUI%5Bwght%2CGEOM%5D.woff2") format("woff2-variations");
+}
+@font-face {
+  font-family: "Cal Sans";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/cosscom/coss@main/packages/ui/src/fonts/CalSans-Regular.woff2") format("woff2");
+}
